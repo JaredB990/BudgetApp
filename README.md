@@ -6,3 +6,4 @@ A simple Python-based budget tracker to manage income and expenses.
 - Add and categorize transactions
 - View transaction history
 - Calculate income, expenses, and balance
+- Add different accounts for different people
