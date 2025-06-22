@@ -15,3 +15,6 @@ A simple Python-based budget tracker to manage income and expenses.
 - Allow importing and exporting transactions for use with other tools such as tableau or excel
 - Add user accounts with password protection
 - Possibly integrate graphs and charts to show spending trends, account balances over time or catagory breakdowns (mathplotlib)
+
+## Photos
+![alt text](https://github.com/JaredB990/BudgetApp/blob/main/Photos/Frontend.png?raw=true)
